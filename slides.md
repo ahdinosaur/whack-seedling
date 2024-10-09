@@ -1,9 +1,9 @@
 ---
 # You can also start simply with 'default'
-theme: seriph
+theme: apple-basic
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://cover.sli.dev
+# background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
 title: Welcome to Slidev
 info: |
@@ -32,10 +32,10 @@ Wellington Hackspace
 -->
 
 ---
-transition: fade-out
----
 
-# You're here
+# Hi hello!
+
+Welcome
 
 <!--
 
@@ -47,42 +47,84 @@ Each person can introduce themselves:
 -->
 
 ---
-transition: slide-up
-level: 2
----
 
 # What is a hackerspace?
 
-Think a garage you share with some mates.
+Think a garage you share with some flatmates.
 
 No staff, informal and somewhat chaotic.
 
 <!--
 
-The more common term is makerspace, however this can sometimes refer to a commercial space, not a community space.
+The more common term is makerspace, however this can sometimes refer to a top-down institution-backed space, not a bottom-up member-backed space.
 
 -->
 
 ---
 
+# What is a hackerspace, really?
+
+Think an incorporated society with members.
+
+Members pay weekly dues which pays for renting a space.
+
+Members donate or crowd-fund tools to use in the space.
+
+<!--
+
+Compare this with the Johnsonville Makerspace.
+
+You might find similar tools, but a much different way of operating.
+
+-->
+
+---
+class: h-full flex flex-col
+---
+
 # Hackerspaces around the world
+
+<img src="/hackerspaces-map.png" class="h-full flex-auto object-cover" />
 
 <!--
 
 New Zealand has only one, maybe two hackerspaces, in Auckland.
 
--->
+New Zealand does have multiple "makerspaces", but not the same.
 
+-->
 
 ---
 
 # Example: Hackland.nz
 
-https://hackland.nz/public/images/clean_room.jpg
-https://hackland.nz/public/images/wood_workshop1.jpg
-https://hackland.nz/public/images/wood_workshop2.jpg
-https://hackland.nz/public/images/metal_workshop1.jpg
-https://hackland.nz/public/images/metal_workshop2.jpg
+Clean room
+
+<div class="grid grid-cols-1 gap-2">
+    <img src="/hackland/clean_room.jpg" />
+</div>
+
+---
+
+# Example: Hackland.nz
+
+Wood workshop
+
+<div class="grid grid-cols-2 gap-2">
+    <img src="/hackland/wood_workshop1.jpg" />
+    <img src="/hackland/wood_workshop2.jpg" />
+</div>
+
+---
+
+# Example: Hackland.nz
+
+Metal workshop
+
+<div class="grid grid-cols-2 gap-2">
+    <img src="/hackland/metal_workshop1.jpg" />
+    <img src="/hackland/metal_workshop2.jpg" />
+</div>
 
 ---
 
@@ -92,19 +134,19 @@ https://hackland.nz/public/images/metal_workshop2.jpg
 
 # Example: Noisebridge
 
-https://www.youtube.com/watch?v=nsiYTBQpIJ8&t=97s
+<Youtube id="nsiYTBQpIJ8?start=97" class="w-5/6 aspect-video" />
 
 ---
 
 # Example: Pumping Station One
 
-https://www.youtube.com/watch?v=vVBeGH83LjI
+<Youtube id="vVBeGH83LjI" class="w-5/6 aspect-video" />
 
 ---
 
 # Example: PDX Hackerspace
 
-https://www.youtube.com/watch?v=QksMguH1yLI
+<Youtube id="QksMguH1yLI" class="w-5/6 aspect-video" />
 
 ---
 
@@ -146,9 +188,17 @@ Consent, not consensus.
 
 <!--
 
-But also, you probably have a legal structure.
+But also, you have a legal structure.
+
+In New Zealand, this would be an incorporated society.
 
 -->
+
+---
+
+# Does that make sense?
+
+Do you feel like you understand what a hackerspace is?
 
 ---
 
