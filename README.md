@@ -1,6 +1,6 @@
 # Whack seedling
 
-A seedling presentation to plant a seedling for a Wellington Hackspace
+A seedling presentation to plant a seedling for a [Wellington Hackspace](https://whack.nz)
 
 <https://seed.whack.nz>
 
