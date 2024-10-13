@@ -5,12 +5,9 @@ theme: apple-basic
 # like them? see https://unsplash.com/collections/94734566/slidev
 # background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
-title: Welcome to Slidev
+title: Wellington Hackspace
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
+  A presentation to plant a seedling for a Wellington Hackspace
 # apply unocss classes to the current slide
 class: text-center
 # https://sli.dev/features/drawing
@@ -128,10 +125,6 @@ Metal workshop
 
 ---
 
-# Example: Studio
-
----
-
 # Example: Noisebridge
 
 <Youtube id="nsiYTBQpIJ8?start=97" class="w-5/6 aspect-video" />
@@ -152,29 +145,35 @@ Metal workshop
 
 # Recap: Vibe
 
-Mad science vibes.
+Creative.
 
-Be creative.
-
+---
+layout: two-cols-header
 ---
 
 # Recap: Tools
 
-- Clean
-  - Shared desks
-  - 3d printers
-  - Textiles (sewing)
-  - Electronics
-  - Crafts
-  - Music
-  - Photography
-- Messy
-  - Woodworking
-  - Laser cutters
-  - CNC machines
-  - Brewing
-  - Metalworking
+::left::
 
+## Light
+
+- Shared desks
+- 3d printers
+- Textiles (sewing)
+- Electronics
+- Crafts
+- Music
+- Photography
+
+::right::
+
+## Heavy
+
+- Woodworking
+- Laser cutters
+- CNC machines
+- Brewing
+- Metalworking
 
 ---
 
@@ -204,16 +203,23 @@ Do you feel like you understand what a hackerspace is?
 
 # Hopper St space
 
-Location
+<div class="grid grid-cols-2 gap-2">
+    <img src="/hopper/hopper-st-map.png" />
+    <img src="/hopper/hopper-st-street.png" />
+</div>
 
 ---
 
 # Hopper St space: downstairs
 
+<Youtube id="ullkaEkygfQ" class="w-5/6 aspect-video" />
+
 ---
 
 
 # Hopper St space: upstairs
+
+<Youtube id="gr6hetRV6G8" class="w-5/6 aspect-video" />
 
 ---
 
@@ -237,6 +243,8 @@ Let's make the legal structure.
 
 Constitution: TODO
 
+https://whack.nz/constitution
+
 ---
 
 # Become a member
@@ -244,6 +252,8 @@ Constitution: TODO
 If you sign up, you are committing to pay $30 per week.
 
 Sign-up form: TODO
+
+https://whack.nz/sign-up
 
 <!--
 

@@ -1,4 +1,10 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Whack seedling
+
+A seedling presentation to plant a seedling for a Wellington Hackspace
+
+<https://seed.whack.nz>
+
+## How to develop
 
 To start the slide show:
 
