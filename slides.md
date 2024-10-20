@@ -61,11 +61,11 @@ The more common term is makerspace, however this can sometimes refer to a top-do
 
 # What is a hackerspace, really?
 
-Think an incorporated society with members.
+An incorporated society with members.
 
 Members pay weekly dues which pays for renting a space.
 
-Members donate or crowd-fund tools to use in the space.
+Members crowd-source tools to use in the space.
 
 <!--
 
@@ -231,7 +231,13 @@ Red pill, blue pill
 
 Take the red pill and we make this happen, right here right now.
 
-Take a blue pill and we can reset.
+Take a blue pill and we can discuss things further.
+
+I'm partial to the "fuck it we'll do it live" approach.
+
+We could spend weeks discussing details and risk losing momentum.
+
+Meanwhile we have everyone right here right now.
 
 -->
 
@@ -239,11 +245,9 @@ Take a blue pill and we can reset.
 
 # Wellington Hackspace Incorporated
 
-Let's make the legal structure.
+We have a constitution
 
-Constitution: TODO
-
-https://whack.nz/constitution
+TODO:  https://whack.nz/constitution
 
 ---
 
@@ -251,9 +255,7 @@ https://whack.nz/constitution
 
 If you sign up, you are committing to pay $30 per week.
 
-Sign-up form: TODO
-
-https://whack.nz/sign-up
+TODO: https://whack.nz/sign-up
 
 <!--
 
@@ -264,5 +266,29 @@ we need the money in the bank to move forward.
 -->
 
 ---
+
+# Become an officer
+
+We need 5 officers
+
+TODO: We should have 5 ready to go before-hand
+
+---
+
+# Our first AGM (Annual General Meeting)
+
+At this meeting, we need to:
+
+- Incorporate the society with
+  - a constitution
+  - at least 10 members
+  - 5 officers (as per the constitution)
+- Agree on membership dues ($30 per week)
+
+AGM Notes: TODO
+
+---
+
+# Thanks!
 
 ---
